@@ -14,8 +14,8 @@ You can see a live demo of the registration form [↗️](https://mohit-kucheriy
 
 ## Screenshots
 
-![Screenshot 1]() 
-![Screenshot 2]() 
+![Screenshot 1](https://github.com/Mohit-Kucheriya/Registration-Form/blob/12e89eb4e627d818d2afd143a56f0e4f0cac08c1/RF1.png) 
+![Screenshot 2](https://github.com/Mohit-Kucheriya/Registration-Form/blob/12e89eb4e627d818d2afd143a56f0e4f0cac08c1/RF2.png) 
 
 ## Usage
 
